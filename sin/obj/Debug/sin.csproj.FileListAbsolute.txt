@@ -1,0 +1,9 @@
+C:\Users\lipch\source\repos\sin\sin\obj\Debug\sin.csproj.AssemblyReference.cache
+C:\Users\lipch\source\repos\sin\sin\obj\Debug\sin.Properties.Resources.resources
+C:\Users\lipch\source\repos\sin\sin\obj\Debug\sin.csproj.GenerateResource.cache
+C:\Users\lipch\source\repos\sin\sin\obj\Debug\sin.csproj.CoreCompileInputs.cache
+C:\Users\lipch\source\repos\sin\sin\bin\Debug\sin.exe.config
+C:\Users\lipch\source\repos\sin\sin\bin\Debug\sin.exe
+C:\Users\lipch\source\repos\sin\sin\bin\Debug\sin.pdb
+C:\Users\lipch\source\repos\sin\sin\obj\Debug\sin.exe
+C:\Users\lipch\source\repos\sin\sin\obj\Debug\sin.pdb
